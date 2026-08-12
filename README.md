@@ -55,10 +55,10 @@ Data was cleaned and de-duplicated using Power Query. Customer segmentation was 
 ## Power BI Dashboards
 
 ### 1. Overview Dashboard
-![Overview Dashboard](customer_segmentation_overview.png)
+![Overview Dashboard](customer_segmentation_oveview.png)
 
 ### 2. Customer Spending Analysis
-![Customer Spending Analysis](customer_spending_analysis.png)
+![Customer Spending Analysis](customer_spending_anlysis.png)
 
 ### 3. Discount Analysis
 ![Discount Analysis](discount_analysis.png)
