@@ -51,3 +51,17 @@ This project analyzes 7,800 US retail customer transactions to identify purchasi
 ## Methodology
 
 Data was cleaned and de-duplicated using Power Query. Customer segmentation was performed using Python KMeans clustering based on spending behavior. The cluster output was merged with the main dataset using Customer ID and analyzed through an interactive 4-page Power BI dashboard.
+
+## Power BI Dashboards
+
+### 1. Overview Dashboard
+![Overview Dashboard](customer_segmentation_overview.png)
+
+### 2. Customer Spending Analysis
+![Customer Spending Analysis](customer_spending_analysis.png)
+
+### 3. Discount Analysis
+![Discount Analysis](discount_analysis.png)
+
+### 4. Customer Segmentation Dashboard
+![Customer Segmentation Dashboard](customer_segmentation.png)
